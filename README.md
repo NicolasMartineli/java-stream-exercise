@@ -20,7 +20,7 @@ Marco,marco@gmail.com,1700.00
 Bob,bob@gmail.com,3500.00
 Anna,anna@gmail.com,2800.00
 
- Execution Example
+### Execution Example
 
 Enter full file path: c:\temp\in.txt
 Enter salary: 2000.00
