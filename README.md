@@ -5,7 +5,7 @@ A straight-to-the-point practice exercise designed to train functional programmi
 ##  Goal
 Read employee data from a `.csv` file, filter and process the information using Java Streams, and perform specific queries.
 
-## ⚙️ Features
+##  Features
 - Reads structured data (`Name, Email, Salary`) from a file.
 - **Query 1:** Filters and lists in alphabetical order the emails of employees earning above a user-defined threshold.
 - **Query 2:** Calculates the total sum of salaries for all employees whose names start with the letter **'M'**.
@@ -21,7 +21,7 @@ Bob,bob@gmail.com,3500.00
 Anna,anna@gmail.com,2800.00
 
  Execution Example
-Plaintext
+
 Enter full file path: c:\temp\in.txt
 Enter salary: 2000.00
 Email of people whose salary is more than 2000.00:
@@ -30,7 +30,7 @@ bob@gmail.com
 maria@gmail.com
 Sum of salary of people whose name starts with 'M': 4900.00
 ```
- Tech Stack
+ ## Tech Stack
 Language: Java
 
 Core Concepts: Streams API (filter, map, sorted, reduce), Lambda Expressions, BufferedReader.
