@@ -20,9 +20,8 @@ Marco,marco@gmail.com,1700.00
 Bob,bob@gmail.com,3500.00
 Anna,anna@gmail.com,2800.00
 ```
-```text
 ### Execution Example
-
+```text
 Enter full file path: c:\temp\in.txt
 Enter salary: 2000.00
 Email of people whose salary is more than 2000.00:
