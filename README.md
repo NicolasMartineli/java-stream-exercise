@@ -3,12 +3,12 @@ Markdown
 
 A collection of basic console applications developed to practice programming logic, file handling, and the Java Stream API.
 
-## 📝 Project Description
+##  Project Description
 This repository contains academic exercises designed to practice processing object data from text files (`.txt` / `.csv`). The main focus is implementing functional programming concepts in Java using standard pipeline operations like filtering, mapping, sorting, and aggregating data.
 
 ---
 
-## 💻 Exercises Included
+##  Exercises Included
 
 ### 1. Product Data Processing (`Product`)
 Reads a list of products (name and price) from a file, calculates the average price, and displays the names of products that are below the average price, sorted in reverse alphabetical order.
@@ -48,7 +48,8 @@ anna@gmail.com
 bob@gmail.com
 maria@gmail.com
 Sum of salary of people whose name starts with 'M': 4900.00
-🛠️ Concepts Practiced
+```
+ ##  Concepts Practiced
 File I/O: Reading files efficiently using BufferedReader and FileReader.
 
 Data Streams API: Heavy utilization of .filter(), .map(), .sorted(), and .reduce().
